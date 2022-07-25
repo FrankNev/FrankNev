@@ -1,4 +1,4 @@
-Hi there👋
+## Hi there👋
 - 👀 I’m interested in Programming and Design of web pages and mobile apps.
 - 🌱 Currently learning JavaScript.
 - 💞️ I'm looking to collaborate on JS related projects to improve my skills and learn new ones.
