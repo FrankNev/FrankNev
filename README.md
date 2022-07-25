@@ -3,7 +3,7 @@ Hi there👋
 - 🌱 Currently learning JavaScript.
 - 💞️ I'm looking to collaborate on JS related projects to improve my skills and learn new ones.
 - ⚽ My goal is become a Web Developer with a strong focus on design.
-- 📫 How to contact me: franco.neville0220@gmail.com
+- 📫 How to contact me: franco.neville.1@gmail.com
 
 <!---
 FrankNev/FrankNev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
