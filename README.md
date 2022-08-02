@@ -1,5 +1,5 @@
 ## Hi there👋
-- 👀 I’m interested in Web Development and Design of web pages and mobile apps.
+- 👀 I’m interested in Web Development and Design.
 - 🌱 Currently learning JavaScript.
 - 💞️ I'm looking to collaborate on JS related projects to improve my skills and learn new ones.
 - ⚽ My goal is become a Fullstack Web Developer with a strong focus on design.
